@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARmultimodel.CSharp", "ARmultimodel.CSharp.csproj", "{E1F55E81-7EBB-B0A5-4FEB-D8148CB23C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARmultimodel.CSharp.Editor", "ARmultimodel.CSharp.Editor.csproj", "{01A6508A-5332-E892-6C23-CCEA8378A124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1F55E81-7EBB-B0A5-4FEB-D8148CB23C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1F55E81-7EBB-B0A5-4FEB-D8148CB23C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1F55E81-7EBB-B0A5-4FEB-D8148CB23C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1F55E81-7EBB-B0A5-4FEB-D8148CB23C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01A6508A-5332-E892-6C23-CCEA8378A124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A6508A-5332-E892-6C23-CCEA8378A124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A6508A-5332-E892-6C23-CCEA8378A124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A6508A-5332-E892-6C23-CCEA8378A124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

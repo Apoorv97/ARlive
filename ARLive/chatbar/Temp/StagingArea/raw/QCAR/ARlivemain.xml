@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="chattthreaded" size="20.000000 35.555557" />
+    <ImageTarget name="iphone" size="20.000000 11.252873" />
+    <ImageTarget name="new1" size="20.000000 35.554420" />
+    <ImageTarget name="IMG_copy" size="15.000000 9.814920" />
+    <ImageTarget name="IMG_20161119_085840-1305x2320" size="20.000000 35.555557" />
+    <ImageTarget name="IMG_201copy" size="25.000000 21.644686" />
+    <ImageTarget name="IMG_20copy" size="17.000000 33.581440" />
+  </Tracking>
+</QCARConfig>
